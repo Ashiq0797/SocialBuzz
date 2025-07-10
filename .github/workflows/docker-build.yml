@@ -27,4 +27,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: ashiq935/socialbuzz:latest
+          tags: |
+            ashiq935/socialbuzz:latest
+            ashiq935/socialbuzz:${{ github.sha }}
+
