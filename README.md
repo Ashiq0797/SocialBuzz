@@ -79,6 +79,13 @@ A feature-rich, scalable, and secure **social media platform** built using **Fir
 - **Integration Testing**: Postman used to simulate user interaction and data flow, particularly around posting, liking, and authentication
 - Future plans include expanding test coverage with real-time simulation and edge case validation
 
+CI Badge:
+![Build](https://github.com/Ashiq0797/SocialBuzz/actions/workflows/docker-build.yml/badge.svg)
+
+AWS Deployment URL :
+[![Live on AWS S3](https://img.shields.io/badge/Live-AWS_S3-green?logo=amazonaws)](http://socialbuzz-app.s3-website.eu-west-2.amazonaws.com)
+
+
 
 ---
 
